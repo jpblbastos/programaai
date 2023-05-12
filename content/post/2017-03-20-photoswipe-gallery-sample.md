@@ -1,6 +1,6 @@
 ---
 title: Photoswipe Gallery SampleS
-subtitle: Making a Gallery
+subtitle: Making a Gallery Team
 date: 2017-03-20
 tags: ["example", "photoswipe"]
 ---
