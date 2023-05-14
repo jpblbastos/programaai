@@ -1,0 +1,23 @@
+[[social_icons]]
+id = "github"
+url = "https://github.com/%s"
+title = "GitHub"
+icon = "fab fa-github"
+
+[[social_icons]]
+id = "twitter"
+url = "https://twitter.com/%s"
+title = "Twitter"
+icon = "fab fa-twitter"
+
+[[social_icons]]
+id = "slack"
+url = "https://%s.slack.com/"
+title = "Slack"
+icon = "fab fa-slack"
+
+[[social_icons]]
+id = "500px"
+url = "https://500px.com/%s"
+title = "500px"
+icon = "fab fa-500px"
