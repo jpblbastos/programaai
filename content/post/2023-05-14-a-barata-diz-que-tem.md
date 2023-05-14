@@ -3,7 +3,7 @@ title: A Barata Diz Que Tem
 subtitle: Não vamos deixar a barata mentir by João Leite
 date: 2023-05-12
 bigimg: [{src: "/programaai/img/barata.jpg", desc: "A Baratinha"}]
-tags: ["golang", "musica", "desafiante]
+tags: ["golang", "musica", "desafiante"]
 ---
 
 KaTeX can be used to generate complex math formulas server-side. 
