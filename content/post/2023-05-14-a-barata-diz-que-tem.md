@@ -1,7 +1,7 @@
 ---
 title: A Barata Diz Que Tem
 subtitle: Não vamos deixar a barata mentir by João Leite
-date: 2023-05-12
+date: 2023-05-14
 bigimg: [{src: "/programaai/img/barata.jpg", desc: "A Baratinha"}]
 tags: ["golang", "musica", "desafiante"]
 ---
