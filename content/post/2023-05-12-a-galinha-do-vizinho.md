@@ -3,7 +3,7 @@ title: A Galinha do Vizinho
 subtitle: Agora com ovos parametrizados by João Leite
 date: 2023-05-12
 bigimg: [{src: "/programaai/img/pintinho-amarelinho.jpeg", desc: "O Pintinho"}]
-tags: ["example", "photoswipe"]
+tags: ["golang", "musica", "fácil"]
 ---
 
 KaTeX can be used to generate complex math formulas server-side. 
