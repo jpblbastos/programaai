@@ -2,7 +2,7 @@
 title: A Galinha do Vizinho
 subtitle: Agora com ovos parametrizados by João Leite
 date: 2023-05-12
-bigimg: [{src: "/img/pintinho-amarelinho.jpeg", desc: "O Pintinho"}]
+bigimg: [{src: "/programaai/img/pintinho-amarelinho.jpeg", desc: "O Pintinho"}]
 tags: ["example", "photoswipe"]
 ---
 
