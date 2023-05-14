@@ -23,7 +23,21 @@ The image banners at the top of the page are refered to as "bigimg" in this them
 
 ### Agora vamos codificar a musica 
 
+{{< goplay >}}
+
+```golang
+package main
+
+func main() {
+    println("hello world")
+}
+```
+
+{{< /goplay >}}
+
+
 Abra este site [Playground](https://go.dev/play/)
+
 
 ```golang
 // A Galinha do Vizinho

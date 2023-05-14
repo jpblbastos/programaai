@@ -1,6 +1,6 @@
 baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
-title = "Pr@grama.Ai{}"
+title = "{Pr@grama.Ai}"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
