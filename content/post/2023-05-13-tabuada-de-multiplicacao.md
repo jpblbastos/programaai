@@ -17,7 +17,7 @@ Additional details can be found on [GitHub](https://github.com/Khan/KaTeX) or on
 
 ### Vamos contar a musica 
 
-The image banners at the top of the page are refered to as "bigimg" in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.
+The image banners at the top of the page are refered to as "bigimg" in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs arspecified using an array of hashes.
 
 {{< youtube he4QBuND1Yo >}}
 
